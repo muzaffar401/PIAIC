@@ -1,3 +1,6 @@
+Here's the corrected version of your Python Projects Collection with working Colab links:
+
+```markdown
 # 🚀 Python Projects Collection  
 
 Welcome to my **Python Projects Collection**! This repository contains a variety of fun and practical Python projects, each designed to help you learn and practice different programming concepts.  
@@ -10,15 +13,15 @@ All projects are available to run directly in **Google Colab** with one click!
 
 | Project | Description | Try Now |  
 |---------|-------------|---------|  
-| **Countdown Timer** | Visual timer for tasks/events | [![Colab](https://colab.research.google.com/drive/19fyLKobckEhqpo2x5R6T4YBRjsFXj2v-?usp=sharing)](colab_url) |  
-| **Guess the Number (User)** | You guess the computer's number | [![Colab](https://colab.research.google.com/drive/144OsZk5ugEtyDmgtK1LICTj1GVi6CTrC?usp=sharing)](colab_url) |  
-| **Guess the Number (Computer)** | Computer guesses your number | [![Colab](https://colab.research.google.com/drive/1A0PHbKrA9quhTBRB_KJMjZiBKnqIRahg?usp=sharing)](colab_url) |  
-| **Hangman Game** | Classic word-guessing challenge | [![Colab](https://colab.research.google.com/drive/1B1kctYy2PDyUk946SopNkepdnJPbaWg0?usp=sharing)](colab_url) |  
-| **Mad Libs Generator** | Create funny text adventures | [![Colab](https://colab.research.google.com/drive/16C8PQFOUTHFe0OtChczrnWhKXPF1uaSQ?usp=sharing)](colab_url) |  
-| **Password Generator** | Create secure passwords instantly | [![Colab](https://colab.research.google.com/drive/1S_JpROlJ2_ze3wSVTE3slhzj_EE3tWwH?usp=sharing)](colab_url) |  
-| **Python Website** | Build a site in 1 minute | [![Colab](https://colab.research.google.com/drive/1F41ZId69L1KuinV4RFF0ywIEUO80mN9N?usp=sharing)](colab_url) |  
-| **Rock Paper Scissors** | Play against the computer | [![Colab](https://colab.research.google.com/drive/1kFdwUiAqRDOrfIE_gCwJhebegTDYvAo_?usp=sharing)](colab_url) |  
-| **BMI Calculator** | Health metric calculator | [![Colab](https://colab.research.google.com/drive/10lv67DtHkhMm-h_IMnx9MxRO95x0WomZ?usp=sharing)](colab_url) |  
+| **Countdown Timer** | Visual timer for tasks/events | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19fyLKobckEhqpo2x5R6T4YBRjsFXj2v-?usp=sharing) |  
+| **Guess the Number (User)** | You guess the computer's number | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/144OsZk5ugEtyDmgtK1LICTj1GVi6CTrC?usp=sharing) |  
+| **Guess the Number (Computer)** | Computer guesses your number | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A0PHbKrA9quhTBRB_KJMjZiBKnqIRahg?usp=sharing) |  
+| **Hangman Game** | Classic word-guessing challenge | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B1kctYy2PDyUk946SopNkepdnJPbaWg0?usp=sharing) |  
+| **Mad Libs Generator** | Create funny text adventures | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16C8PQFOUTHFe0OtChczrnWhKXPF1uaSQ?usp=sharing) |  
+| **Password Generator** | Create secure passwords instantly | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_JpROlJ2_ze3wSVTE3slhzj_EE3tWwH?usp=sharing) |  
+| **Python Website** | Build a site in 1 minute | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F41ZId69L1KuinV4RFF0ywIEUO80mN9N?usp=sharing) |  
+| **Rock Paper Scissors** | Play against the computer | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kFdwUiAqRDOrfIE_gCwJhebegTDYvAo_?usp=sharing) |  
+| **BMI Calculator** | Health metric calculator | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10lv67DtHkhMm-h_IMnx9MxRO95x0WomZ?usp=sharing) |  
 
 ---
 
