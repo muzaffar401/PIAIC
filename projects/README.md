@@ -1,6 +1,3 @@
-Here's the corrected version of your Python Projects Collection with working Colab links:
-
-```markdown
 # 🚀 Python Projects Collection  
 
 Welcome to my **Python Projects Collection**! This repository contains a variety of fun and practical Python projects, each designed to help you learn and practice different programming concepts.  
