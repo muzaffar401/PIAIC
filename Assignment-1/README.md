@@ -14,22 +14,6 @@ Create a Python program that prints a personalized "Hello, World" message using 
 - Supports custom greeting names (e.g., "Hello, Muzaffar").
 - Includes unit tests with `pytest` to verify functionality.
 
----
-
-## 📂 Project Structure
-
-task-1/
-├── hello_world/
-│   ├── main.py           # Contains the Greeter class
-│   └── __init__.py       # Makes it a Python package
-├── test/
-│   ├── __init__.py       # Makes the test folder a Python package
-│   └── test_greeter.py   # Contains test cases for the Greeter class
-├── requirements.txt      # (Optional) List of dependencies
-└── README.md             # Project description
-
-
----
 
 ## 🧪 Testing
 
