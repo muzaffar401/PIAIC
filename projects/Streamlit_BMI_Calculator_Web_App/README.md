@@ -57,8 +57,11 @@ The app provides expandable health recommendations for each BMI category, includ
 - Exercise advice
 - When to consult healthcare professionals
 
+# URL : https://bmi-calculator-app-streammlit.streamlit.app/
+
 ## Note
 
 BMI is a screening tool but not a diagnostic measure of body fatness or health. Always consult with a healthcare provider for personalized health advice.
 ```
+
 
