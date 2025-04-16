@@ -25,8 +25,8 @@ Welcome to my **Python Projects Collection**! This repository contains a variety
 To get started, clone this repository to your local machine:  
 
 ```bash
-git clone https://github.com/your-username/python-projects.git
-cd python-projects
+git clone https://github.com/muzaffar401/PIAIC.git
+cd PIAIC
 ```
 
 ### **2. Set Up a Virtual Environment (Recommended)**  
