@@ -82,4 +82,4 @@ MIT License - Open source and free to use/modify/distribute
 ## 📬 **Connect With Me**  
 💌 Email: *ma9400667@gmail.com*  
 🔗 LinkedIn: *[Muzaffar Ahmed](https://www.linkedin.com/in/muzaffar-ahmed-325ba6346)*  
-🐦 Twitter: *[YourHandle](https://twitter.com/yourhandle)*  
+🐦 Twitter: *[Muzaffar Ahmed](https://x.com/_Muzaffar_Ahmed)*  
