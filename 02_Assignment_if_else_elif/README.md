@@ -82,69 +82,32 @@ else:
 
 ## 🧠 If-Elif-Else Structure Flow Diagram
 
+This simple flow diagram shows how the program moves step-by-step:
 
 ```
-┌───────────────────────┐
-│      Start Program    │
-└──────────┬────────────┘
-           │
-┌──────────▼────────────┐
-│   Condition Check     │
-│  (if condition)       │
-└──────────┬────────────┘
-           ├───────────────┐
-           │ True          │ False
-┌──────────▼────────────┐ ┌──────────▼────────────┐
-│  Execute if-block     │ │  Check next condition │
-│  (code inside if)     │ │  (elif condition)     │
-└───────────────────────┘ └──────────┬────────────┘
-                                     ├───────────────┐
-                                     │ True          │ False
-                             ┌───────▼───────┐ ┌─────▼──────┐
-                             │ Execute elif   │ │  Check next│
-                             │ (1st elif)     │ │  elif/else │
-                             └───────┬───────┘ └─────┬──────┘
-                                     │               │
-                                     │               │
-                             ┌───────▼───────┐ ┌─────▼──────┐
-                             │  More elifs?  │ │ Execute    │
-                             │  (if any)     │ │ else-block │
-                             └───────┬───────┘ └─────┬──────┘
-                                     │               │
-                                     └──────┬────────┘
-                                            │
-                                   ┌────────▼────────┐
-                                   │   End Program   │
-                                   └─────────────────┘
-```
-
-### Key Explanation:
-1. The program **starts** and evaluates the first `if` condition.
-2. If **True** → Executes the `if` block and **skips all `elif/else`**.
-3. If **False** → Moves to the next `elif` condition (if any).
-4. If **all `if/elif` are False** → Executes the `else` block (if present).
-5. The program **ends** after executing any matching block.
-
----
-
-### Example Flow for `Grading System`:
-```
-Start
-  │
-  ▼
-Enter Percentage: 85%
-  │
-  ▼
-Check: 85 >= 90? False → Move to elif
-  │
-  ▼
-Check: 85 >= 80? True → Print "A Grade"
-  │
-  ▼
-Skip all remaining elif/else
-  │
-  ▼
-End Program
+            [ Start Program ]
+                   |
+            [ Take Input ]
+                   |
+          [ Check if Input is Valid ]
+                   |
+        +----------------------+
+        |                      |
+  [ Valid Input ]         [ Invalid Input ]
+        |                      |
+        V                      V
+  [ Use if-elif-else ]   [ Show Error Message ]
+        |
+        |-- If condition True --> [ Action 1 ]
+        |
+        |-- Elif condition True --> [ Action 2 ]
+        |
+        |-- Elif condition True --> [ Action 3 ]
+        |
+        |-- Else --> [ Default Action ]
+        |
+        V
+  [ End Program ]
 ```
 
 ---
