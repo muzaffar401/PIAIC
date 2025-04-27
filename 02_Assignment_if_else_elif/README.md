@@ -84,6 +84,8 @@ else:
 
 This simple flow diagram shows how the program moves step-by-step:
 
+![workflow diagram](diagram.png)
+
 ```
             [ Start Program ]
                    |
